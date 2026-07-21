@@ -64,25 +64,16 @@
 
 ---
 
-# 📂 Featured Projects
 
-| Project | Technologies |
-|----------|-------------|
-| 💻 AI Laptop Price Predictor | Python, Streamlit, Machine Learning |
-| 🌍 Travel Booking Website | MERN Stack |
-| 🏠 Real Estate Website | React + Node.js |
-| 📦 Inventory Management System | Java, MySQL |
-| 💼 Job Portal | Next.js, MongoDB |
-
----
 
 # 📊 GitHub Stats
 
+
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanuja697&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanuja697&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
