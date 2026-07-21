@@ -12,7 +12,7 @@
 
 # 🚀 About Me
 
-- 🔭 Currently working on **Modern MERN Stack Projects**
+- 🔭 Currently working on **Modern Full Stack Projects**
 - 🌱 Learning **Next.js, AI Integration & Cloud Technologies**
 - 💡 Passionate about UI/UX Design
 - ⚡ Love Building Clean & Responsive Applications
